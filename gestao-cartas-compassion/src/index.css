@@ -1,1 +1,6 @@
 @import "tailwindcss";
+
+@theme {
+  --color-compassion-background: #F8F9FF;
+  --color-compassion-white: #FFF
+}
