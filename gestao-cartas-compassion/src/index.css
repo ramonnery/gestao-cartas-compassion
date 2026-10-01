@@ -2,5 +2,11 @@
 
 @theme {
   --color-compassion-background: #F8F9FF;
-  --color-compassion-white: #FFF
+  --color-compassion-white: #FFF;
+  --color-compassion-font-main: #434655;
+  --color-compassion-dark-blue: #0B1C30;
+  --color-compassion-blue: #004AC6;
+
+  --font-sans: "Inter", sans-serif;
+  --font-secondary: "JetBrains Mono", monospace;
 }
